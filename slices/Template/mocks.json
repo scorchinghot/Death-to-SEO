@@ -1,0 +1,36 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"title": {
+				"__TYPE__": "FieldContent",
+				"value": "port",
+				"type": "Text"
+			},
+			"content": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Excepteur magna et reprehenderit sint pariatur sint ex sunt do voluptate nostrud anim veniam aliquip culpa. Velit aliquip do nostrud duis amet deserunt labore mollit aliquip anim velit elit. Deserunt ex ullamco mollit sint in anim magna quis."
+						}
+					}
+				]
+			},
+			"subtitle": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Pariatur ex enim mollit deserunt laborum irure non id nisi esse cupidatat commodo exercitation ipsum."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
